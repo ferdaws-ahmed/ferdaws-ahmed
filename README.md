@@ -1,6 +1,8 @@
+
+![Image](https://github.com/user-attachments/assets/cae8be11-2c27-4f2a-a245-4baa27f867b3)
 ### Hi there 👋, my name is Ferdaws-Ahmed-(Alif)
 #### I am Web Developer 
-![I am Web Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 i'm a web developer driven to craft user-friendly web experiences. With a strong foundation in HTML, CSS, and Tailwind CSS, I am actively learning JavaScript to build dynamic web applications.
 
