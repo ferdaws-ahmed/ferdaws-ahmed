@@ -2,7 +2,7 @@
 ![Banner](https://i.imgur.com/uzIdRXK.gif)
 
 <marquee behavior="scroll" direction="left" scrollamount="6" style="color:#ff6347; font-size:18px;">
-🚀 MERN Stack Developer | Building Scalable Web Apps | Exploring Next.js & React Projects 🚀
+💻 MERN Stack Developer &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🚀 Building Scalable Web Apps &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🌐 Exploring Next.js & React Projects &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 📚 Learning Advanced Node.js & MongoDB
 </marquee>
 
 # Md. Ferdaws Ahmed
