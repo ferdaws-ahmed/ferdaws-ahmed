@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner]([https://your-banner-link-here.com/banner.jpg](https://imgur.com/a/d2ltkf1))
+![Banner](https://imgur.com/a/d2ltkf1)
 
 # Md. Ferdaws Ahmed
 ### MERN Stack Developer
