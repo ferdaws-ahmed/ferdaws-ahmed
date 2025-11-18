@@ -21,17 +21,16 @@ I am a **MERN stack developer** passionate about building scalable and user-frie
 
 ## Skills
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/html-5.png" width="40" height="40" alt="HTML"/> HTML &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/css3.png" width="40" height="40" alt="CSS"/> CSS &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/javascript.png" width="40" height="40" alt="JavaScript"/> JavaScript &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/react-native.png" width="40" height="40" alt="React"/> React &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/nodejs.png" width="40" height="40" alt="Node.js"/> Node.js &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/mongodb.png" width="40" height="40" alt="MongoDB"/> MongoDB &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/firebase.png" width="40" height="40" alt="Firebase"/> Firebase &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" width="40" height="40" alt="TailwindCSS"/> TailwindCSS &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/daisyui.png" width="40" height="40" alt="DaisyUI"/> DaisyUI
-</p>
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-%23F0E68C?style=for-the-badge&logo=daisyui&logoColor=black)
+
 
 
 ---
