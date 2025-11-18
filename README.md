@@ -1,9 +1,7 @@
 <!-- Banner Image -->
 ![Banner](https://i.imgur.com/uzIdRXK.gif)
 
-<marquee behavior="scroll" direction="left" scrollamount="6" style="color:#ff6347; font-size:18px;">
-💻 MERN Stack Developer &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🚀 Building Scalable Web Apps &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🌐 Exploring Next.js & React Projects &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 📚 Learning Advanced Node.js & MongoDB
-</marquee>
+
 
 # Md. Ferdaws Ahmed
 ### MERN Stack Developer
@@ -13,12 +11,13 @@
 
 ---
 
-## About Me
-I am a **MERN stack developer** passionate about building scalable and user-friendly web applications. I enjoy exploring new technologies and turning ideas into functional projects.  
+## 💫 About Me
+Hi there 👋, my name is Ferdaws-Ahmed-(Alif). I am a **MERN stack developer** passionate about building high-quality, scalable web applications. I specialize in **MongoDB, Express, React, and Node.js**, complemented by strong front-end skills in **HTML, CSS, TailwindCSS, DaisyUI, and JavaScript**.<br><br>
+I excel at transforming ideas into functional, user-friendly applications, following best coding practices and modern development standards. Continuously learning and adapting to new technologies, I am driven to deliver solutions that are both efficient and impactful.  
 
-**Current Activities:**  
-- Exploring **Next.js** for server-side rendering projects  
-- Working on a **Tourism Website** using React and TailwindCSS  
+### Current Activities: 
+- Developing **full-stack MERN applications** with modern front-end features 
+- Working on a **Shifting Service Website** using React and TailwindCSS 
 - Learning **Advanced Node.js and MongoDB Optimization**  
 
 ---
@@ -40,9 +39,10 @@ I am a **MERN stack developer** passionate about building scalable and user-frie
 ---
 
 ## Social Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdaws-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ferdaws/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferdaws-ahmed)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ferdawsahmed)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61556248924752)
+
 
 ---
 
