@@ -1,6 +1,9 @@
 <!-- Banner Image -->
 ![Banner](https://i.imgur.com/uzIdRXK.gif)
 
+<marquee behavior="scroll" direction="left" scrollamount="6" style="color:#ff6347; font-size:18px;">
+💻 MERN Stack Developer &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🚀 Building Scalable Web Apps &nbsp;&nbsp;&nbsp;
+</marquee>
 
 
 # Md. Ferdaws Ahmed
