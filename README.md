@@ -1,36 +1,72 @@
+<!-- Banner Image -->
+![Banner](https://your-banner-link-here.com/banner.jpg)
 
-![Banner](https://cdn.dribbble.com/users/123456/screenshots/4171367/coding-freak.png) 
+# Md. Ferdaws Ahmed
+### MERN Stack Developer
 
-### Hi there 👋, my name is Ferdaws-Ahmed-(Alif)
-#### I am Web Developer 
+**Location:** Dhaka, Bangladesh  
+**Email:** ferdaws.ahmed@example.com
 
-i'm a web developer driven to craft user-friendly web experiences. With a strong foundation in HTML, CSS, and Tailwind CSS, I am actively learning JavaScript to build dynamic web applications.
+---
 
-Skills:  HTML / CSS / Tailwind CSS
+## About Me
+I am a **MERN stack developer** passionate about building scalable and user-friendly web applications. I enjoy exploring new technologies and turning ideas into functional projects.  
 
-- 🔭 I’m currently working on won projects 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about web development  
+**Current Activities:**  
+- Exploring **Next.js** for server-side rendering projects  
+- Working on a **Tourism Website** using React and TailwindCSS  
+- Learning **Advanced Node.js and MongoDB Optimization**  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ferdaws-ahmed)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-ferdaws/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61556248924752)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alif___mahmud_/)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## Skills
+<div>
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS"/>
+  <img src="https://img.icons8.com/color/48/daisyui.png" alt="DaisyUI"/>
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ferdaws-ahmed)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdaws-ahmed)](https://github.com/anuraghazra/github-readme-stats)
+## Social Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdaws-ahmed)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferdaws-ahmed)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ferdawsahmed)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdaws-ahmed&show_icons=true&count_private=true)  
+---
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ferdaws-ahmed/contributions?format=svg&private=true)  
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferdaws-ahmed&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdaws-ahmed&layout=compact&theme=radical)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ferdaws-ahmed)
+---
 
+## Pinned Repositories
+
+### 1. Tourism Website
+**Description:** A responsive tourism website showcasing popular destinations and travel packages.  
+**Tech Stack:** React, TailwindCSS, Node.js, Express, MongoDB  
+**Live Link:** [Tourism Website](https://tourism-website-live-link.com)  
+**Repo Link:** [GitHub](https://github.com/ferdaws-ahmed/tourism-website)
+
+---
+
+### 2. E-commerce Platform
+**Description:** Full-featured e-commerce platform with user authentication, cart, and payment integration.  
+**Tech Stack:** MERN Stack, Firebase, Stripe API  
+**Live Link:** [E-commerce Platform](https://ecommerce-live-link.com)  
+**Repo Link:** [GitHub](https://github.com/ferdaws-ahmed/ecommerce-platform)
+
+---
+
+### 3. Chat Application
+**Description:** Real-time chat application with private and group chat functionalities.  
+**Tech Stack:** React, Node.js, Socket.io, Firebase  
+**Live Link:** [Chat App](https://chat-app-live-link.com)  
+**Repo Link:** [GitHub](https://github.com/ferdaws-ahmed/chat-app)
