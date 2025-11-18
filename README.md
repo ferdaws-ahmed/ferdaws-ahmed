@@ -10,7 +10,7 @@
 ### MERN Stack Developer
 
 **Location:** Dhaka, Bangladesh  
-**Email:** ferdaws.ahmed@example.com
+**Email:** mdferdawsahmeed@gmail.com
 
 ---
 
