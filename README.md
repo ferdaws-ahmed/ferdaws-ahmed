@@ -1,6 +1,10 @@
 <!-- Banner Image -->
 ![Banner](https://i.imgur.com/uzIdRXK.gif)
 
+<marquee behavior="scroll" direction="left" scrollamount="6" style="color:#ff6347; font-size:18px;">
+🚀 MERN Stack Developer | Building Scalable Web Apps | Exploring Next.js & React Projects 🚀
+</marquee>
+
 # Md. Ferdaws Ahmed
 ### MERN Stack Developer
 
