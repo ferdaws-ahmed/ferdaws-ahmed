@@ -54,27 +54,3 @@ I excel at transforming ideas into functional, user-friendly applications, follo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdaws-ahmed&layout=compact&theme=radical)
 
 ---
-
-## Pinned Repositories
-
-### 1. Tourism Website
-**Description:** A responsive tourism website showcasing popular destinations and travel packages.  
-**Tech Stack:** React, TailwindCSS, Node.js, Express, MongoDB  
-**Live Link:** [Tourism Website](https://tourism-website-live-link.com)  
-**Repo Link:** [GitHub](https://github.com/ferdaws-ahmed/tourism-website)
-
----
-
-### 2. E-commerce Platform
-**Description:** Full-featured e-commerce platform with user authentication, cart, and payment integration.  
-**Tech Stack:** MERN Stack, Firebase, Stripe API  
-**Live Link:** [E-commerce Platform](https://ecommerce-live-link.com)  
-**Repo Link:** [GitHub](https://github.com/ferdaws-ahmed/ecommerce-platform)
-
----
-
-### 3. Chat Application
-**Description:** Real-time chat application with private and group chat functionalities.  
-**Tech Stack:** React, Node.js, Socket.io, Firebase  
-**Live Link:** [Chat App](https://chat-app-live-link.com)  
-**Repo Link:** [GitHub](https://github.com/ferdaws-ahmed/chat-app)
