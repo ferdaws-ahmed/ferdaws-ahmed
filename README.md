@@ -1,9 +1,8 @@
 <!-- Banner Image -->
 ![Banner](https://i.imgur.com/uzIdRXK.gif)
 
-<marquee behavior="scroll" direction="left" scrollamount="6" style="color:#ff6347; font-size:18px;">
-💻 MERN Stack Developer &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🚀 Building Scalable Web Apps &nbsp;&nbsp;&nbsp;
-</marquee>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3EC7F7&width=480&lines=Welcome+to+my+profile;💻+MERN+Stack+Developer;🚀+Building+Scalable+Web+Apps)](https://git.io/typing-svg)
+
 
 
 # Md. Ferdaws Ahmed
