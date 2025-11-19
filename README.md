@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://ibb.co.com/fGp783cR)
+![Banner](https://i.ibb.co.com/BKZR4h1D/github-banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3EC7F7&width=480&lines=Welcome+to+my+profile;💻+MERN+Stack+Developer;🚀+Building+Scalable+Web+Apps)](https://git.io/typing-svg)
 
